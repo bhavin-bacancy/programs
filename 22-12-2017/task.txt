@@ -1,0 +1,6 @@
+every()
+============done===
+tostring
+concat
+join
+indexof
